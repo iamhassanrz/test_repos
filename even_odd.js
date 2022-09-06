@@ -1,9 +1,9 @@
 let a=10;
 
-if(a%5==0){
+if(a%2==0){
 
-  console.log("Odd");
+  console.log("Even");
 } else {
 
- console.log("Even")
+ console.log("Odd")
 }
